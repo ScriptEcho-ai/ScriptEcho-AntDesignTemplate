@@ -6,7 +6,7 @@ ScriptEcho AntDesign的模板项目
 - 获取项目代码
 
 ```bash
-git clone https://github.com/ScriptEcho-ai/ScriptEch-AntDesign.git
+git clone https://github.com/ScriptEcho-ai/ScriptEch-AntDesignTemplate.git
 ```
 
 - 安装依赖
